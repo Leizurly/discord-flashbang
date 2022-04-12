@@ -19,10 +19,10 @@
                 "TEXTBOX_MARKDOWN_SYNTAX": ["#394E62", "#394E62"],
                 "TEXT_NORMAL": ["#000000", "#000000"],
                 "TEXT_MUTED": ["#B9BBBE", "#B9BBBE"],
-                "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF"],
+                "INTERACTIVE_ACTIVE": ["#999999", "#999999"],
                 "INTERACTIVE_NORMAL": ["#9CDFFF", "#9CDFFF"],
-                "HEADER_PRIMARY": ["#FFFFFF", "#FFFFFF"],
-                "HEADER_SECONDARY": ["#B9BBBE", "#B9BBBE"]
+                "HEADER_PRIMARY": ["#999999", "#999999"],
+                "HEADER_SECONDARY": ["#999999", "#999999"]
     },
     "colours": {
         "PRIMARY_DARK":  "#1D2A3B",
